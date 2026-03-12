@@ -1,13 +1,75 @@
-# 👨🏼‍🎓👋🏼 About Me:
-¡Hello everyone! I’m Santiago Zapata Mejía, a QA and Test Automation Specialist who transforms software quality for startups and international companies. I build advanced automation frameworks (Playwright, Cypress, Selenium), integrate AI-driven E2E testing, and optimize QA pipelines to reduce production errors by 40%+ and accelerate releases 30%+. I help businesses scale platforms reliably, improve efficiency, and deliver high-impact digital products.
+# QA Automation Lead | Building Test Frameworks That Ship Software Faster
 
+I build **QA programs from zero** for high-growth startups. My automation frameworks have reduced production defects by **40%**, accelerated release cycles by **30%+**, and scaled platforms to **5,000+ active users**.
 
-## 📡 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_untalzapata) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zapatamejia/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_Untalzapata) 
+Currently owning end-to-end quality at a **Y Combinator-backed** SaaS company.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+---
 
+### What I Do
 
+```
+🔧 Build automation frameworks from scratch (Playwright, Cypress, Selenium)
+⚡ Engineer CI/CD test pipelines that cut execution time by 50%
+🤖 Design AI-augmented E2E testing strategies
+📈 Transform manual-testing teams into automated release machines
+```
 
+### Impact Numbers
 
+```
+40% fewer production defects    |    80% test automation coverage
+50% less manual testing effort  |    30%+ faster release cycles
+5,000+ users on platforms I QA'd to scale
+```
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[Playwright Automation Framework](https://github.com/ZapataMejia/playwright-automation-framework)**
+
+Production-ready E2E framework with POM, custom fixtures, Allure reporting, multi-browser support, and GitHub Actions CI/CD.
+
+`Playwright` `TypeScript` `Docker` `Allure`
+
+</td>
+<td width="50%">
+
+**[Cypress E2E Boilerplate](https://github.com/ZapataMejia/cypress-e2e-boilerplate)**
+
+Enterprise boilerplate with BDD/Cucumber, API testing, visual regression, Mochawesome reporting, and matrix CI/CD.
+
+`Cypress` `Cucumber` `BDD` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
+
+**Test Automation** · Playwright · Cypress · Selenium · BDD/TDD · POM · Data-Driven Testing
+
+**CI/CD & Infra** · Jenkins · GitHub Actions · Docker · Git
+
+**Programming** · TypeScript · Python · JavaScript · SQL
+
+**API & Performance** · Postman · Newman · REST API · Load Testing
+
+**Strategy** · Test Planning · Shift-Left · Risk-Based Testing · Root Cause Analysis
+
+---
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zapatamejia/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szapatamejia193@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZapataMejia)
+
+> *"I don't just write tests — I design quality systems that let engineering teams move faster with confidence."*
