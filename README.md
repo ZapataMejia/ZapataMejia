@@ -108,7 +108,7 @@ Portfolio, blog, services page, and ISTQB practice quiz. Built with Astro.
 
 ### Let's Connect
 
-[![Website](https://img.shields.io/badge/Website-22c55e?style=for-the-badge&logo=astro&logoColor=white)](https://grand-snickerdoodle-7e8092.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-22c55e?style=for-the-badge&logo=astro&logoColor=white)](https://zapatamejia.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zapatamejia/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szapatamejia193@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZapataMejia)
