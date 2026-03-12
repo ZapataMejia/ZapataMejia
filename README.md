@@ -48,6 +48,46 @@ Enterprise boilerplate with BDD/Cucumber, API testing, visual regression, Mochaw
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[AI-Augmented Playwright Testing](https://github.com/ZapataMejia/playwright-ai-testing)**
+
+AI-powered test generation, self-healing locators, visual regression, and intelligent test prioritization via git diff.
+
+`AI Testing` `Playwright` `Self-Healing` `Visual AI`
+
+</td>
+<td width="50%">
+
+**[API Testing Framework](https://github.com/ZapataMejia/api-testing-framework)**
+
+Python + pytest framework with Pydantic validation, JSON Schema, performance testing, and 28 automated tests.
+
+`Python` `pytest` `Pydantic` `API`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[k6 Performance Testing](https://github.com/ZapataMejia/k6-performance-testing)**
+
+Complete performance suite: smoke, load, stress, spike, soak tests with Grafana dashboards and Docker stack.
+
+`k6` `Performance` `Grafana` `Docker`
+
+</td>
+<td width="50%">
+
+**[Personal Website](https://github.com/ZapataMejia/santiagozapata-dev)**
+
+Portfolio, blog, services page, and ISTQB practice quiz. Built with Astro.
+
+`Astro` `Portfolio` `Blog` `ISTQB`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -68,6 +108,7 @@ Enterprise boilerplate with BDD/Cucumber, API testing, visual regression, Mochaw
 
 ### Let's Connect
 
+[![Website](https://img.shields.io/badge/Website-22c55e?style=for-the-badge&logo=astro&logoColor=white)](https://grand-snickerdoodle-7e8092.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zapatamejia/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szapatamejia193@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZapataMejia)
