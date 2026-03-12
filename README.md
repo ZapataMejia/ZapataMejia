@@ -1,16 +1,14 @@
-### Hi there 👋
+### Console.log("Hello World")🐱‍👤
 
-<!--
-**ZapataMejia/ZapataMejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Bienvenidos, Mucho gusto, Me presento.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+-  Mi nombre es Santiago Zapata...🤗
+-  Soy estudiante de Ingenieria Del Software...👨‍🎓
+-  Soy de la Ciudad De Pereira/Risaralda...🟨🟦🟥
+-  Tengo 22 Años..🚫
+
+
+
