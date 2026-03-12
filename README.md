@@ -1,5 +1,5 @@
 # 👨🏼‍🎓👋🏼 About Me:
-¡Hello everyone! I'm Santiago, a 24 year old Software Engineering student with a great passion for programming and software development. I am currently working at DailyBot as a Junior Developer Engineer, where I have learned and improved my skills in the field.<br>¡Thanks for visiting my GitHub profile! Feel free to explore my repositories and projects to learn more about my work and skills. I'm always open to new opportunities and exciting projects, so feel free to contact me if you're interested in collaborating.
+¡Hello everyone! I’m Santiago Zapata Mejía, a QA and Test Automation Specialist who transforms software quality for startups and international companies. I build advanced automation frameworks (Playwright, Cypress, Selenium), integrate AI-driven E2E testing, and optimize QA pipelines to reduce production errors by 40%+ and accelerate releases 30%+. I help businesses scale platforms reliably, improve efficiency, and deliver high-impact digital products.
 
 
 ## 📡 Socials:
