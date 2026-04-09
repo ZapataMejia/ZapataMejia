@@ -25,6 +25,12 @@ Currently owning end-to-end quality at a **Y Combinator-backed** SaaS company.
 
 ---
 
+### Portfolio hub
+
+**[QA Engineering Portfolio](https://github.com/ZapataMejia/qa-engineering-portfolio)** — índice de todos mis repositorios públicos de automatización y testing (Playwright, Cypress, k6, APIs, IA, web).
+
+---
+
 ### Featured Projects
 
 <table>
